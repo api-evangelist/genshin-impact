@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://genshin.dev
 common:
+  - type: DomainSecurity
+    url: security/genshin-impact-domain-security.yml
   - type: Website
     url: https://genshin.dev
   - type: PublicAPIsListing
